@@ -1,7 +1,7 @@
 How to deploy a scikit-learn model in a django app
 ====================================
 
-© (Michel Sassano)[https://github.com/SassanoM]
+© [Michel Sassano](https://github.com/SassanoM)
 
 
 #1 Coding guidelines
