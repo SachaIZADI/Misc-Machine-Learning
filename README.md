@@ -10,3 +10,7 @@
 2. A few articles/tutos with great tips about how to ship ML-powered products:
 
 > http://www.marknagelberg.com/digging-into-data-science-tools-docker/
+
+3. A few interesting projects:
+
+> http://norvig.com/spell-correct.html
