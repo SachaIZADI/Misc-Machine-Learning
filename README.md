@@ -10,6 +10,7 @@
 2. A few articles/tutos with great tips about how to ship ML-powered products:
 
 > http://www.marknagelberg.com/digging-into-data-science-tools-docker/
+> https://medium.com/analytics-vidhya/deploy-your-first-deep-learning-model-on-kubernetes-with-python-keras-flask-and-docker-575dc07d9e76
 
 3. A few interesting projects:
 
