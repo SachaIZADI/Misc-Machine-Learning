@@ -19,3 +19,7 @@
 4. A bit more general about product management:
 
 > https://medium.com/@gabriel_31154/product-management-on-the-dreem-headband-e8e2e107144
+
+5. Career advice in Computer Science:
+
+> https://huyenchip.com/2018/10/08/career-advice-recent-cs-graduates.html
