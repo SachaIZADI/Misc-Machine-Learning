@@ -7,6 +7,7 @@
 > https://medium.com/@deepmindsafetyresearch/building-safe-artificial-intelligence-52f5f75058f1
 > https://medium.com/@rchang/getting-better-at-machine-learning-16b4dd913a1f
 > https://arxiv.org/pdf/1810.03993.pdf
+> https://blog.insightdatascience.com/how-to-deliver-on-machine-learning-projects-c8d82ce642b0
 
 2. A few articles/tutos with good tips on how to ship ML-powered products:
 
