@@ -27,3 +27,4 @@
 5. Career advice in Computer Science:
 
 * https://huyenchip.com/2018/10/08/career-advice-recent-cs-graduates.html
+* http://www.cs.cmu.edu/~harchol/gradschooltalk.pdf
