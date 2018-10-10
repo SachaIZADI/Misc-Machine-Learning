@@ -6,8 +6,9 @@
 > https://medium.com/@davidbessis/building-ai-first-products-90d503ccd43a
 > https://medium.com/@deepmindsafetyresearch/building-safe-artificial-intelligence-52f5f75058f1
 > https://medium.com/@rchang/getting-better-at-machine-learning-16b4dd913a1f
+> https://arxiv.org/pdf/1810.03993.pdf
 
-2. A few articles/tutos with great tips about how to ship ML-powered products:
+2. A few articles/tutos with good tips on how to ship ML-powered products:
 
 > http://www.marknagelberg.com/digging-into-data-science-tools-docker/
 > https://medium.com/analytics-vidhya/deploy-your-first-deep-learning-model-on-kubernetes-with-python-keras-flask-and-docker-575dc07d9e76
