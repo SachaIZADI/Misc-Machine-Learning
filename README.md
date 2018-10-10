@@ -20,6 +20,7 @@
 4. A bit more general about product management:
 
 > https://medium.com/@gabriel_31154/product-management-on-the-dreem-headband-e8e2e107144
+> https://hackernoon.com/why-you-should-be-data-informed-and-not-data-driven-76079d187989
 
 5. Career advice in Computer Science:
 
