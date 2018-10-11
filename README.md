@@ -28,3 +28,10 @@
 
 * https://huyenchip.com/2018/10/08/career-advice-recent-cs-graduates.html
 * http://www.cs.cmu.edu/~harchol/gradschooltalk.pdf
+
+
+
+
+6. Misc. :
+
+* https://www.cbinsights.com/research/future-of-information-warfare
