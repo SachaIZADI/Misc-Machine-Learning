@@ -12,6 +12,7 @@
 * https://medium.com/the-lever/retracing-your-steps-in-machine-learning-ml-versioning-74d19a66bd08
 * https://medium.com/the-lever/no-machine-learning-in-your-product-start-here-2df776d10a5c
 * https://medium.com/the-lever/data-a-key-requirement-for-your-machine-learning-ml-product-9195ace977d4
+* https://anatomyof.ai/
 
 2. A few articles/tutos with good tips on how to ship ML-powered products:
 
@@ -28,6 +29,7 @@
 * https://medium.com/@gabriel_31154/product-management-on-the-dreem-headband-e8e2e107144
 * https://hackernoon.com/why-you-should-be-data-informed-and-not-data-driven-76079d187989
 * http://firstround.com/review/17-product-managers-who-will-own-the-future-of-nyc-tech-and-the-9-frameworks-theyll-use-to-do-it/
+* https://medium.com/@diemkay/how-i-prepared-for-a-product-manager-interview-26122f2c80ba
 
 5. Career advice in Computer Science:
 
