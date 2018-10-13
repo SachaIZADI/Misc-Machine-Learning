@@ -17,6 +17,7 @@
 
 * http://www.marknagelberg.com/digging-into-data-science-tools-docker/
 * https://medium.com/analytics-vidhya/deploy-your-first-deep-learning-model-on-kubernetes-with-python-keras-flask-and-docker-575dc07d9e76
+* https://towardsdatascience.com/deploying-a-machine-learning-model-as-a-rest-api-4a03b865c166
 
 3. A few interesting ML-powered easy-to-replicate projects:
 
