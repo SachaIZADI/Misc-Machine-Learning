@@ -9,6 +9,8 @@
 * https://arxiv.org/pdf/1810.03993.pdf
 * https://blog.insightdatascience.com/how-to-deliver-on-machine-learning-projects-c8d82ce642b0
 * https://blog.insightdatascience.com/an-introduction-to-the-data-product-management-landscape-ef930afe6de5
+* https://medium.com/the-lever/retracing-your-steps-in-machine-learning-ml-versioning-74d19a66bd08
+* https://medium.com/the-lever/no-machine-learning-in-your-product-start-here-2df776d10a5c
 
 2. A few articles/tutos with good tips on how to ship ML-powered products:
 
@@ -23,7 +25,6 @@
 
 * https://medium.com/@gabriel_31154/product-management-on-the-dreem-headband-e8e2e107144
 * https://hackernoon.com/why-you-should-be-data-informed-and-not-data-driven-76079d187989
-* https://medium.com/the-lever/no-machine-learning-in-your-product-start-here-2df776d10a5c
 
 5. Career advice in Computer Science:
 
