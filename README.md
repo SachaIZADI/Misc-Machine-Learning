@@ -11,6 +11,7 @@
 * https://blog.insightdatascience.com/an-introduction-to-the-data-product-management-landscape-ef930afe6de5
 * https://medium.com/the-lever/retracing-your-steps-in-machine-learning-ml-versioning-74d19a66bd08
 * https://medium.com/the-lever/no-machine-learning-in-your-product-start-here-2df776d10a5c
+* https://medium.com/the-lever/data-a-key-requirement-for-your-machine-learning-ml-product-9195ace977d4
 
 2. A few articles/tutos with good tips on how to ship ML-powered products:
 
