@@ -27,6 +27,7 @@
 
 * https://medium.com/@gabriel_31154/product-management-on-the-dreem-headband-e8e2e107144
 * https://hackernoon.com/why-you-should-be-data-informed-and-not-data-driven-76079d187989
+* http://firstround.com/review/17-product-managers-who-will-own-the-future-of-nyc-tech-and-the-9-frameworks-theyll-use-to-do-it/
 
 5. Career advice in Computer Science:
 
