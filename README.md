@@ -23,6 +23,7 @@
 
 * https://medium.com/@gabriel_31154/product-management-on-the-dreem-headband-e8e2e107144
 * https://hackernoon.com/why-you-should-be-data-informed-and-not-data-driven-76079d187989
+* https://medium.com/the-lever/no-machine-learning-in-your-product-start-here-2df776d10a5c
 
 5. Career advice in Computer Science:
 
