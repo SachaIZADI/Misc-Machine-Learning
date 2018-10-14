@@ -14,6 +14,7 @@
 * https://medium.com/the-lever/data-a-key-requirement-for-your-machine-learning-ml-product-9195ace977d4
 * https://anatomyof.ai/
 * https://www.oreilly.com/ideas/lessons-learned-turning-machine-learning-models-into-real-products-and-services
+* http://www.bradfordcross.com/blog/2017/6/13/vertical-ai-startups-solving-industry-specific-problems-by-combining-ai-and-subject-matter-expertise
 
 
 2. A few articles/tutos with good tips on how to ship ML-powered products:
