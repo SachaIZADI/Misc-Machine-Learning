@@ -13,16 +13,20 @@
 * https://medium.com/the-lever/no-machine-learning-in-your-product-start-here-2df776d10a5c
 * https://medium.com/the-lever/data-a-key-requirement-for-your-machine-learning-ml-product-9195ace977d4
 * https://anatomyof.ai/
+* https://www.oreilly.com/ideas/lessons-learned-turning-machine-learning-models-into-real-products-and-services
+
 
 2. A few articles/tutos with good tips on how to ship ML-powered products:
 
 * http://www.marknagelberg.com/digging-into-data-science-tools-docker/
 * https://medium.com/analytics-vidhya/deploy-your-first-deep-learning-model-on-kubernetes-with-python-keras-flask-and-docker-575dc07d9e76
 * https://towardsdatascience.com/deploying-a-machine-learning-model-as-a-rest-api-4a03b865c166
+* https://blog.keras.io/user-experience-design-for-apis.html
 
 3. A few interesting ML-powered easy-to-replicate projects:
 
 * http://norvig.com/spell-correct.html
+* https://vdutor.github.io/blog/2018/05/07/TF-rex.html
 
 4. A bit more general about product management:
 
