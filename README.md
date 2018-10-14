@@ -42,6 +42,7 @@
 * https://huyenchip.com/2018/10/08/career-advice-recent-cs-graduates.html
 * http://www.cs.cmu.edu/~harchol/gradschooltalk.pdf
 * http://hookedondata.org/Red-Flags-in-Data-Science-Interviews/
+* http://hookedondata.org/Advice-for-Applying-to-Data-Science-Jobs/
 
 
 
