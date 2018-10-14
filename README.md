@@ -37,12 +37,13 @@
 * http://firstround.com/review/17-product-managers-who-will-own-the-future-of-nyc-tech-and-the-9-frameworks-theyll-use-to-do-it/
 * https://medium.com/@diemkay/how-i-prepared-for-a-product-manager-interview-26122f2c80ba
 
-5. Career advice in Computer Science:
+5. Career advice in Computer Science / Job interviews tips:
 
 * https://huyenchip.com/2018/10/08/career-advice-recent-cs-graduates.html
 * http://www.cs.cmu.edu/~harchol/gradschooltalk.pdf
 * http://hookedondata.org/Red-Flags-in-Data-Science-Interviews/
 * http://hookedondata.org/Advice-for-Applying-to-Data-Science-Jobs/
+* https://www.analyticsvidhya.com/blog/2018/06/comprehensive-data-science-machine-learning-interview-guide/
 
 
 
