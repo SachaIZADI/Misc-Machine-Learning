@@ -29,6 +29,7 @@
 
 * http://norvig.com/spell-correct.html
 * https://vdutor.github.io/blog/2018/05/07/TF-rex.html
+* https://medium.com/@dhruvp/how-to-write-a-neural-network-to-play-pong-from-scratch-956b57d4f6e0
 
 4. A bit more general about product management:
 
