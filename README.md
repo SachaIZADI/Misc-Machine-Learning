@@ -24,6 +24,7 @@
 * https://medium.com/analytics-vidhya/deploy-your-first-deep-learning-model-on-kubernetes-with-python-keras-flask-and-docker-575dc07d9e76
 * https://towardsdatascience.com/deploying-a-machine-learning-model-as-a-rest-api-4a03b865c166
 * https://blog.keras.io/user-experience-design-for-apis.html
+* https://medium.com/@maheshkkumar/a-guide-to-deploying-machine-deep-learning-model-s-in-production-e497fd4b734a
 
 3. A few interesting ML-powered easy-to-replicate projects:
 
