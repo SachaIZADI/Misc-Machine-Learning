@@ -25,6 +25,7 @@
 * https://towardsdatascience.com/deploying-a-machine-learning-model-as-a-rest-api-4a03b865c166
 * https://blog.keras.io/user-experience-design-for-apis.html
 * https://medium.com/@maheshkkumar/a-guide-to-deploying-machine-deep-learning-model-s-in-production-e497fd4b734a
+* https://medium.com/google-cloud/keras-inception-v3-on-google-compute-engine-a54918b0058
 
 3. A few interesting ML-powered easy-to-replicate projects:
 
