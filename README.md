@@ -27,6 +27,7 @@
 * https://medium.com/@maheshkkumar/a-guide-to-deploying-machine-deep-learning-model-s-in-production-e497fd4b734a
 * https://medium.com/google-cloud/keras-inception-v3-on-google-compute-engine-a54918b0058
 * https://arxiv.org/pdf/1810.09591.pdf
+* https://www.liip.ch/en/blog/numbers-recognition-mnist-on-an-iphone-with-coreml-from-a-to-z
 
 3. A few interesting ML-powered easy-to-replicate projects:
 
