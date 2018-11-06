@@ -51,8 +51,10 @@
 * https://www.analyticsvidhya.com/blog/2018/06/comprehensive-data-science-machine-learning-interview-guide/
 
 
+6. Privacy (& security) in Machine-Learning:
+* https://arxiv.org/pdf/1811.01134.pdf
 
 
-6. Misc. :
+7. Misc.:
 
 * https://www.cbinsights.com/research/future-of-information-warfare
