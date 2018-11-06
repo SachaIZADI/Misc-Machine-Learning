@@ -56,6 +56,7 @@
 * https://arxiv.org/pdf/1602.05629.pdf
 * https://ai.googleblog.com/2017/04/federated-learning-collaborative.html?m=1
 * https://robertovitillo.com/2016/07/29/differential-privacy-for-dummies/
+* http://www.cleverhans.io/privacy/2018/04/29/privacy-and-machine-learning.html
 
 
 7. Misc.:
