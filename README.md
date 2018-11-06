@@ -53,6 +53,8 @@
 
 6. Privacy (& security) in Machine-Learning:
 * https://arxiv.org/pdf/1811.01134.pdf
+* https://arxiv.org/pdf/1602.05629.pdf
+* https://ai.googleblog.com/2017/04/federated-learning-collaborative.html?m=1
 
 
 7. Misc.:
