@@ -44,6 +44,7 @@
 * https://hackernoon.com/why-you-should-be-data-informed-and-not-data-driven-76079d187989
 * http://firstround.com/review/17-product-managers-who-will-own-the-future-of-nyc-tech-and-the-9-frameworks-theyll-use-to-do-it/
 * https://medium.com/@diemkay/how-i-prepared-for-a-product-manager-interview-26122f2c80ba
+* https://medium.com/airbnb-engineering/experimentation-measurement-for-search-engine-optimization-b64136629760
 
 5. Career advice in Computer Science / Job interviews tips:
 
