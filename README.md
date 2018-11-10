@@ -28,6 +28,7 @@
 * https://medium.com/google-cloud/keras-inception-v3-on-google-compute-engine-a54918b0058
 * https://arxiv.org/pdf/1810.09591.pdf
 * https://www.liip.ch/en/blog/numbers-recognition-mnist-on-an-iphone-with-coreml-from-a-to-z
+* https://www.raywenderlich.com/577-core-ml-and-vision-machine-learning-in-ios-11-tutorial
 
 3. A few interesting ML-powered easy-to-replicate projects:
 
