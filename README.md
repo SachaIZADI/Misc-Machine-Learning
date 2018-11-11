@@ -67,3 +67,4 @@
 7. Misc.:
 
 * https://www.cbinsights.com/research/future-of-information-warfare
+* http://www.lbatalha.com/blog/feynman-on-fermats-last-theorem
