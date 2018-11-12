@@ -38,6 +38,7 @@
 * https://vdutor.github.io/blog/2018/05/07/TF-rex.html
 * https://medium.com/@dhruvp/how-to-write-a-neural-network-to-play-pong-from-scratch-956b57d4f6e0
 * https://www.liip.ch/en/blog/numbers-recognition-mnist-on-an-iphone-with-coreml-from-a-to-z
+* https://eng.uber.com/michelangelo-pyml/
 
 4. A bit more general about product management:
 
