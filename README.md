@@ -31,6 +31,7 @@
 * https://www.raywenderlich.com/577-core-ml-and-vision-machine-learning-in-ios-11-tutorial
 * https://www.datacamp.com/community/tutorials/machine-learning-models-api-python
 * http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
+* https://blog.dominodatalab.com/data-science-vs-engineering-tension-points/
 
 3. A few interesting ML-powered projects:
 
