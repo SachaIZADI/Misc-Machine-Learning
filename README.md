@@ -59,7 +59,8 @@
 * https://www.analyticsvidhya.com/blog/2018/06/comprehensive-data-science-machine-learning-interview-guide/
 
 
-6. Privacy (& security) in Machine-Learning:
+6. Privacy & Security in Machine-Learning:
+
 * https://arxiv.org/pdf/1811.01134.pdf
 * https://arxiv.org/pdf/1602.05629.pdf
 * https://ai.googleblog.com/2017/04/federated-learning-collaborative.html?m=1
@@ -69,5 +70,5 @@
 
 7. Misc.:
 
-* https://www.cbinsights.com/research/future-of-information-warfare
 * http://www.lbatalha.com/blog/feynman-on-fermats-last-theorem
+* https://towardsdatascience.com/bringing-the-best-out-of-jupyter-notebooks-for-data-science-f0871519ca29
