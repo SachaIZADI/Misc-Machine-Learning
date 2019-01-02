@@ -35,7 +35,7 @@
 * https://blog.dominodatalab.com/data-science-vs-engineering-tension-points/
 * https://github.com/hadley/stats337
 
-3. A few ML-powered projects I'd like to implement when I found time:
+3. A few ML-powered projects I'd like to implement when I find time:
 
 * http://norvig.com/spell-correct.html
 * https://vdutor.github.io/blog/2018/05/07/TF-rex.html
@@ -44,6 +44,7 @@
 * https://eng.uber.com/michelangelo-pyml/
 * https://medium.com/@adriensieg/create-a-full-search-engine-via-flask-elasticsearch-javascript-d3js-and-bootstrap-275f9dc6efe1
 * https://medium.com/@dhruvp/how-to-write-a-neural-network-to-play-pong-from-scratch-956b57d4f6e0
+* https://zyjerah.github.io/Frame-of-Fancy/
 
 4. A bit more general about product management:
 
