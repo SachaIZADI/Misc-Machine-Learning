@@ -16,6 +16,7 @@
 * https://www.oreilly.com/ideas/lessons-learned-turning-machine-learning-models-into-real-products-and-services
 * http://www.bradfordcross.com/blog/2017/6/13/vertical-ai-startups-solving-industry-specific-problems-by-combining-ai-and-subject-matter-expertise
 * https://www.wired.com/story/how-amazon-taught-alexa-to-speak-french/
+* http://treycausey.com/software_dev_skills.html
 
 
 2. A few articles/tutos with good tips on how to ship ML-powered products:
