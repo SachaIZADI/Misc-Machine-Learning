@@ -33,7 +33,7 @@
 * http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
 * https://blog.dominodatalab.com/data-science-vs-engineering-tension-points/
 
-3. A few interesting ML-powered projects:
+3. A few ML-powered projects I'd like to implement when I found time:
 
 * http://norvig.com/spell-correct.html
 * https://vdutor.github.io/blog/2018/05/07/TF-rex.html
@@ -41,6 +41,7 @@
 * https://www.liip.ch/en/blog/numbers-recognition-mnist-on-an-iphone-with-coreml-from-a-to-z
 * https://eng.uber.com/michelangelo-pyml/
 * https://medium.com/@adriensieg/create-a-full-search-engine-via-flask-elasticsearch-javascript-d3js-and-bootstrap-275f9dc6efe1
+* https://medium.com/@dhruvp/how-to-write-a-neural-network-to-play-pong-from-scratch-956b57d4f6e0
 
 4. A bit more general about product management:
 
