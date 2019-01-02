@@ -53,7 +53,7 @@
 * https://medium.com/@diemkay/how-i-prepared-for-a-product-manager-interview-26122f2c80ba
 * https://medium.com/airbnb-engineering/experimentation-measurement-for-search-engine-optimization-b64136629760
 
-5. Career advice in Computer Science / Job interviews tips:
+5. Career advice in Data (& Computer) Science / Job interviews tips:
 
 * https://huyenchip.com/2018/10/08/career-advice-recent-cs-graduates.html
 * http://www.cs.cmu.edu/~harchol/gradschooltalk.pdf
@@ -61,6 +61,7 @@
 * http://hookedondata.org/Advice-for-Applying-to-Data-Science-Jobs/
 * https://www.analyticsvidhya.com/blog/2018/06/comprehensive-data-science-machine-learning-interview-guide/
 * https://medium.com/@rchang/my-two-year-journey-as-a-data-scientist-at-twitter-f0c13298aee6
+* https://caitlinhudon.com/2018/01/19/imposter-syndrome-in-data-science/
 
 
 6. Privacy & Security in Machine-Learning:
