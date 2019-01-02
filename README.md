@@ -57,6 +57,7 @@
 * http://hookedondata.org/Red-Flags-in-Data-Science-Interviews/
 * http://hookedondata.org/Advice-for-Applying-to-Data-Science-Jobs/
 * https://www.analyticsvidhya.com/blog/2018/06/comprehensive-data-science-machine-learning-interview-guide/
+* https://medium.com/@rchang/my-two-year-journey-as-a-data-scientist-at-twitter-f0c13298aee6
 
 
 6. Privacy & Security in Machine-Learning:
