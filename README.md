@@ -63,6 +63,7 @@
 * https://www.analyticsvidhya.com/blog/2018/06/comprehensive-data-science-machine-learning-interview-guide/
 * https://medium.com/@rchang/my-two-year-journey-as-a-data-scientist-at-twitter-f0c13298aee6
 * https://caitlinhudon.com/2018/01/19/imposter-syndrome-in-data-science/
+* http://chaire-arts-sciences.org/
 
 
 6. Privacy & Security in Machine-Learning:
