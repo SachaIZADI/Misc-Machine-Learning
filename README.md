@@ -64,6 +64,7 @@
 * https://medium.com/@rchang/my-two-year-journey-as-a-data-scientist-at-twitter-f0c13298aee6
 * https://caitlinhudon.com/2018/01/19/imposter-syndrome-in-data-science/
 * http://chaire-arts-sciences.org/
+* https://towardsdatascience.com/why-you-shouldnt-be-a-data-science-generalist-f69ea37cdd2c
 
 
 6. Privacy & Security in Machine-Learning:
