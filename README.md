@@ -65,6 +65,7 @@
 * https://caitlinhudon.com/2018/01/19/imposter-syndrome-in-data-science/
 * http://chaire-arts-sciences.org/
 * https://towardsdatascience.com/why-you-shouldnt-be-a-data-science-generalist-f69ea37cdd2c
+* https://angel.co/blog/30-questions-to-ask-before-joining-a-startup
 
 
 6. Privacy & Security in Machine-Learning:
