@@ -34,6 +34,7 @@
 * http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
 * https://blog.dominodatalab.com/data-science-vs-engineering-tension-points/
 * https://github.com/hadley/stats337
+* https://towardsdatascience.com/i-worked-with-a-data-scientist-heres-what-i-learned-2e19c5f5204
 
 3. A few ML-powered projects I'd like to implement when I find time:
 
