@@ -36,6 +36,7 @@
 * https://github.com/hadley/stats337
 * https://towardsdatascience.com/i-worked-with-a-data-scientist-heres-what-i-learned-2e19c5f5204
 * https://blog.insightdatascience.com/how-to-deliver-on-machine-learning-projects-c8d82ce642b0
+* https://towardsdatascience.com/data-science-project-flow-for-startups-282a93d4508d
 
 3. A few ML-powered projects I'd like to implement when I find time:
 
