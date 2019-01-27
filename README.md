@@ -38,7 +38,11 @@
 * https://blog.insightdatascience.com/how-to-deliver-on-machine-learning-projects-c8d82ce642b0
 * https://towardsdatascience.com/data-science-project-flow-for-startups-282a93d4508d
 
-3. A few ML-powered projects I'd like to implement when I find time:
+3. Docker:
+* https://towardsdatascience.com/learn-enough-docker-to-be-useful-b7ba70caeb4b
+* https://towardsdatascience.com/learn-enough-docker-to-be-useful-1c40ea269fa8
+
+4. A few ML-powered projects I'd like to implement when I find time:
 
 * http://norvig.com/spell-correct.html
 * https://vdutor.github.io/blog/2018/05/07/TF-rex.html
@@ -49,7 +53,7 @@
 * https://medium.com/@dhruvp/how-to-write-a-neural-network-to-play-pong-from-scratch-956b57d4f6e0
 * https://zyjerah.github.io/Frame-of-Fancy/
 
-4. A bit more general about product management:
+5. A bit more general about product management:
 
 * https://medium.com/@gabriel_31154/product-management-on-the-dreem-headband-e8e2e107144
 * https://hackernoon.com/why-you-should-be-data-informed-and-not-data-driven-76079d187989
@@ -57,7 +61,7 @@
 * https://medium.com/@diemkay/how-i-prepared-for-a-product-manager-interview-26122f2c80ba
 * https://medium.com/airbnb-engineering/experimentation-measurement-for-search-engine-optimization-b64136629760
 
-5. Career advice in Data (& Computer) Science / Job interviews tips:
+6. Career advice in Data (& Computer) Science / Job interviews tips:
 
 * https://huyenchip.com/2018/10/08/career-advice-recent-cs-graduates.html
 * http://www.cs.cmu.edu/~harchol/gradschooltalk.pdf
@@ -71,7 +75,7 @@
 * https://angel.co/blog/30-questions-to-ask-before-joining-a-startup
 
 
-6. Privacy & Security in Machine-Learning:
+7. Privacy & Security in Machine-Learning:
 
 * https://arxiv.org/pdf/1811.01134.pdf
 * https://arxiv.org/pdf/1602.05629.pdf
@@ -80,7 +84,7 @@
 * http://www.cleverhans.io/privacy/2018/04/29/privacy-and-machine-learning.html
 
 
-7. Misc.:
+8. Misc.:
 
 * http://www.lbatalha.com/blog/feynman-on-fermats-last-theorem
 * https://towardsdatascience.com/bringing-the-best-out-of-jupyter-notebooks-for-data-science-f0871519ca29
