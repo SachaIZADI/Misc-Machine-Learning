@@ -37,6 +37,7 @@
 * https://towardsdatascience.com/i-worked-with-a-data-scientist-heres-what-i-learned-2e19c5f5204
 * https://blog.insightdatascience.com/how-to-deliver-on-machine-learning-projects-c8d82ce642b0
 * https://towardsdatascience.com/data-science-project-flow-for-startups-282a93d4508d
+* https://medium.com/techking/human-like-playtesting-with-deep-learning-92adafffe921
 
 3. Docker:
 * https://towardsdatascience.com/learn-enough-docker-to-be-useful-b7ba70caeb4b
