@@ -53,6 +53,7 @@
 * https://medium.com/@adriensieg/create-a-full-search-engine-via-flask-elasticsearch-javascript-d3js-and-bootstrap-275f9dc6efe1
 * https://medium.com/@dhruvp/how-to-write-a-neural-network-to-play-pong-from-scratch-956b57d4f6e0
 * https://zyjerah.github.io/Frame-of-Fancy/
+* https://medium.com/jettech/https-medium-com-jettech-visual-search-hayneedle-f248aa05f2f2
 
 5. A bit more general about product management:
 
