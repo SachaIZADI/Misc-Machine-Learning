@@ -38,6 +38,7 @@
 * https://blog.insightdatascience.com/how-to-deliver-on-machine-learning-projects-c8d82ce642b0
 * https://towardsdatascience.com/data-science-project-flow-for-startups-282a93d4508d
 * https://medium.com/techking/human-like-playtesting-with-deep-learning-92adafffe921
+* https://emilygorcenski.com/post/data-versioning/
 
 3. Docker:
 * https://towardsdatascience.com/learn-enough-docker-to-be-useful-b7ba70caeb4b
