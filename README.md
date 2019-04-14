@@ -40,9 +40,10 @@
 * https://medium.com/techking/human-like-playtesting-with-deep-learning-92adafffe921
 * https://emilygorcenski.com/post/data-versioning/
 
-3. Docker:
+3. Docker & Serverless:
 * https://towardsdatascience.com/learn-enough-docker-to-be-useful-b7ba70caeb4b
 * https://towardsdatascience.com/learn-enough-docker-to-be-useful-1c40ea269fa8
+* https://mike.place/talks/serverless/
 
 4. A few ML-powered projects I'd like to implement when I find time:
 
